@@ -40,8 +40,10 @@
 -   game_ai_guess_number.ipynb - файл-презентация Jupyter Notebook
 
 ### Требования для работы
-*   Основой интерпретатор - 
-*   
+*   Основой интерпретатор - Python 3.10 (у меня взят из Windows App Store для максимальной бесшовной интеграции с VSCode)
+*   Дополнительные требования перечислены в requirements.txt (получены командой pip freeze > requirements.txt)
+*   Установка недостающих дополнительных компонент:
+*        pip install -r requirements.txt
 
 :arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST_game_guess_number/tree/main/project_0/README.md#Оглавление)
 
