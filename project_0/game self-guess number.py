@@ -4,20 +4,20 @@ from random import random
 import numpy as np
 
 
-# number = round(random() * 100)
-number = np.random.randint(1, 101)
-count = 0       # счетчик попыток
+number = np.random.randint(1, 101)      # загадываем число в диапазоне от 1 до 100
+count = 0                               # счетчик попыток
 
+# выполняем условие цикла пока не угадаем число
 while True:
     count += 1
-    predict_num = int(input('Guess number from 1 to 100. You enter '))
+    predict_num = int(input('I guess number from 1 to 100, your is '))
 
     if predict_num > number:
-        print('Number is lower')
+        print('No, number is lower')
     
     elif predict_num < number:
-        print('Number is bugger')
+        print('No, number is bigger')
     
     else:
-        print(f'You won. This is {number}. You guess for {count} attempts')
+        print(f'You won. This is {number}. You had guessed my num for {count} attempts')
     
