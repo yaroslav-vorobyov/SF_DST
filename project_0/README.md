@@ -39,6 +39,10 @@
 -   game_ai_guess_number.py - файл проекта с угадыванием числа компьютер сам с собой, включает расчет среднего числа попыток
 -   game_ai_guess_number.ipynb - файл-презентация Jupyter Notebook
 
+### Требования для работы
+*   Основой интерпретатор - 
+*   
+
 :arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST_game_guess_number/tree/main/project_0/README.md#Оглавление)
 
 
