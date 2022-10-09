@@ -61,6 +61,8 @@
 *   Установка недостающих дополнительных компонент:
 *        pip install -r requirements.txt
 
+:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST_game_guess_number/tree/main/project_0/README.md#Оглавление)
+
   <br/>
 
 ### Этапы работы над проектом
