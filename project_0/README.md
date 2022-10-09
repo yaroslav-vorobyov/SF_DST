@@ -78,7 +78,7 @@
   <br/>
 
 ### Выводы
-Проект на данном этапе завершен, код рабочий, всегда.
+Код рабочий, но есть к чему стремиться, что еще добавить.
 
 :arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST_game_guess_number/tree/main/project_0/README.md#Оглавление)
 

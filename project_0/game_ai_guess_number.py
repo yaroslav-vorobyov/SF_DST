@@ -58,18 +58,18 @@ def score_game(random_predict) -> int:
         int: среднее количество попыток
     """
 
-    count_ls = []                                         # список для сохранения количества попыток
-    # np.random.seed(1)                                   # фиксируем сид для воспроизводимости
+    count_ls = []                       # список для сохранения количества попыток
+    # np.random.seed(1)                 # фиксируем сид для воспроизводимости
     # задаем список чисел от 1 до 100 размерностью 1000 элементов (попыток)
     random_array = np.random.randint(1, 101, size=(1000))
+    
     # в цикле наполняем список элементами - числом попыток угадывания числа
     for number in random_array:
         count_ls.append(random_predict(number))
     
     # находим среднее количество попыток от всех элементов списка
     score = int(np.mean(count_ls))
-
-    return(score)
+    return(score)                       # возвращаем среднее количество попыток
 
 # не запускать вызов функции из jupiter notebook
 if __name__ == '__main__':
