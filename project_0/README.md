@@ -18,8 +18,6 @@
 ## Описание проекта
 Угадать загаданное компьютером число за минимальное количество попыток.
 
-:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST_game_guess_number/tree/main/project_0/README.md#Оглавление)  
-
   <br/>
 
 ### Какой кейс решаем?
@@ -46,6 +44,8 @@
 -   Учусь работать с IDE VSCode;
 -   Учусь работать с GitHub.
 
+:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST_game_guess_number/tree/main/project_0/README.md#Оглавление)
+
   <br/>
 
 ### Краткая информация о данных
@@ -61,23 +61,17 @@
 *   Установка недостающих дополнительных компонент:
 *        pip install -r requirements.txt
 
-:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST_game_guess_number/tree/main/project_0/README.md#Оглавление)
-
   <br/>
 
 ### Этапы работы над проектом
 *   Провел тесты нескольких запусков, код задокументирован, всё, по возможности, соответствует PEP8;
 *   np.random.seed(1) сид для воспроизводимости закомментирован для получения динамических результатов угадывания самим компьютером.
 
-:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST_game_guess_number/tree/main/project_0/README.md#Оглавление)
-
   <br/>
 
 
 ### Результаты:
 На моем железе (i7-3820QM/16Gb SO-DIMM DDR3/mSATA SSD 256Gb) комфортно отрабатывает до 10000 запусков, для более быстрого завершения расчета можно установить предел в 250 запусков.
-
-:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST_game_guess_number/tree/main/project_0/README.md#Оглавление)
 
   <br/>
 
