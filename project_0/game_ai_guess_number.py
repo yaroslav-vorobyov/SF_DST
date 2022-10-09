@@ -4,6 +4,8 @@ from random import random
 import numpy as np
 
 
+
+
 def random_predict(number:int=1) -> int:
     """Компьютер угадывает число методом половинного деления.
     Функция всегда угадывает число в диапазоне от 1 до 100 за число попыток не больше 8 
@@ -50,6 +52,29 @@ def random_predict(number:int=1) -> int:
             max = mid                   
     return count                        # возвращаем число попыток отгадывания
 
+def score_game(random_predict) -> int:
+    """За какое количество попыток в среднем из 1000 подходов угадывает алгоритм
+    Args:
+        random_predict ([type]): функция угадывания
+    Returns:
+        int: среднее количество попыток
+    """
+
+    count_ls = []                                         # список для сохранения количества попыток
+    # np.random.seed(1)                                   # фиксируем сид для воспроизводимости
+    # задаем список чисел от 1 до 100 размерностью 1000 элементов (попыток)
+    random_array = np.random.randint(1, 101, size=(1000))
+    # в цикле наполняем список элементами - числом попыток угадывания числа
+    for number in random_array:
+        count_ls.append(random_predict(number))
+    
+    # находим среднее количество попыток от всех элементов списка
+    score = int(np.mean(count_ls))
+    # выводим метрику качества
+    print(f'Алгоритм угадывает число в среднем за: {score} попыток')
+    return(score)
+
 # не запускать вызов функции из jupiter notebook
 if __name__ == '__main__':
     print(f'Количество попыток: {random_predict()}')
+    score_game(random_predict)
