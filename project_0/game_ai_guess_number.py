@@ -36,7 +36,7 @@ def random_predict(number:int=1) -> int:
         # вывод промежуточных результатов, можно ниже в каждую ветку if-elif-else добавить, 
         # чтобы видеть какие переменные на каждой итерации ветвления
         # этот 1 print здесь или 3 print в if-elif-else ниже
-        print('загаданное число={0} mid={1} min={2} max={3}'.format(number, mid, min, max))
+        # print('загаданное число={0} mid={1} min={2} max={3}'.format(number, mid, min, max))
         
         # если угадали загаданное число, то выходим из цикла
         if number == mid:
