@@ -11,17 +11,21 @@
 
 [5. Результат](https://github.com/yaroslav-vorobyov/SF_DST_game_guess_number/tree/main/project_0/README.md#Результат)
 
-[6. Выводы](https://github.com/yaroslav-vorobyov/SF_DST_game_guess_number/tree/main/project_0/README.md#Выводы)
+[6. Выводы](https://github.com/yaroslav-vorobyov/SF_DST_game_guess_number/tree/main/project_0/README.md#Выводы)  
 
+  <br/>
 
 ## Описание проекта
 Угадать загаданное компьютером число за минимальное количество попыток.
 
-:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST_game_guess_number/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST_game_guess_number/tree/main/project_0/README.md#Оглавление)  
 
+  <br/>
 
 ### Какой кейс решаем?
 Нужно написать программу, которая угадывает число за минимальное число попыток
+
+  <br/>
 
 **Алгоритм работы:**
 - Компьютер загадывает число от 0 до 100. Есть 2 варианта кода:
@@ -30,19 +34,26 @@
 - Под "отгадывает", подразумевается написать "программу, которая реализует алгоритм угадывания числа".
 - Алгоритм учитывает информацию о том, больше ли случайное число или меньше нужного нам.
 
+  <br/>
+
 **Метрика качества:**
 Результаты оцениваются по среднему количеству попыток при 1000 повторений.
+
+  <br/>
 
 **Что на практике:**
 -   Учусь писать хороший код на Python и ломать свои паттерны мышления от Си;
 -   Учусь работать с IDE VSCode;
 -   Учусь работать с GitHub.
 
+  <br/>
 
 ### Краткая информация о данных
--   game guess number.py - файл проекта с угадыванием числа человек-компьютер;
--   game_ai_guess_number.py - файл проекта с угадыванием числа компьютер сам с собой, включает расчет среднего числа попыток;
+-   game guess number.py - файл проекта с угадыванием числа человеком, компьютер загадывает число;
+-   game_ai_guess_number.py - файл проекта с угадыванием числа компьютером самим собой, загадывает число и пытается его подобрать методом половинного деления, включает модуль расчета среднего числа удачных попыток отгадывания;
 -   game_ai_guess_number.ipynb - файл-презентация Jupyter Notebook, взаимодействует с файлом game_ai_guess_number.py.
+
+  <br/>
 
 ### Требования для работы
 *   Основой интерпретатор - Python 3.10 (у меня взят из Windows App Store для максимальной бесшовной интеграции с VSCode);
@@ -52,6 +63,7 @@
 
 :arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST_game_guess_number/tree/main/project_0/README.md#Оглавление)
 
+  <br/>
 
 ### Этапы работы над проектом
 *   Провел тесты нескольких запусков, код задокументирован, всё, по возможности, соответствует PEP8;
@@ -59,16 +71,22 @@
 
 :arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST_game_guess_number/tree/main/project_0/README.md#Оглавление)
 
+  <br/>
+
 
 ### Результаты:
 На моем железе (i7-3820QM/16Gb SO-DIMM DDR3/mSATA SSD 256Gb) комфортно отрабатывает до 10000 запусков, для более быстрого завершения расчета можно установить предел в 250 запусков.
 
 :arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST_game_guess_number/tree/main/project_0/README.md#Оглавление)
 
+  <br/>
 
 ### Выводы
 Проект на данном этапе завершен, код рабочий, всегда.
 
 :arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST_game_guess_number/tree/main/project_0/README.md#Оглавление)
+
+  <br/>
+
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
