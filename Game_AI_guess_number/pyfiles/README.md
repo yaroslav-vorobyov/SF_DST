@@ -1,17 +1,17 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание проекта](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/Game_AI_guess_number/pyfiles/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/Game_AI_guess_number/pyfiles/README.md#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/Game_AI_guess_number/pyfiles/README.md#Какой-кейс-решаем)
+[2. Какой кейс решаем?](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/Game_AI_guess_number/pyfiles/README.md#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/Game_AI_guess_number/pyfiles/README.md#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/Game_AI_guess_number/pyfiles/README.md#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/Game_AI_guess_number/pyfiles/README.md#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/Game_AI_guess_number/pyfiles/README.md#Этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/Game_AI_guess_number/pyfiles/README.md#Результат)
+[5. Результат](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/Game_AI_guess_number/pyfiles/README.md#Результат)
 
-[6. Выводы](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/Game_AI_guess_number/pyfiles/README.md#Выводы)  
+[6. Выводы](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/Game_AI_guess_number/pyfiles/README.md#Выводы)  
 
   <br/>
 
@@ -44,7 +44,7 @@
 -   Учусь работать с IDE VSCode;
 -   Учусь работать с GitHub.
 
-:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/Game_AI_guess_number/pyfiles/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/Game_AI_guess_number/pyfiles/README.md#Оглавление)
 
   <br/>
 
@@ -61,7 +61,7 @@
 *   Установка недостающих дополнительных компонент:
 *        pip install -r requirements.txt
 
-:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/Game_AI_guess_number/pyfiles/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/Game_AI_guess_number/pyfiles/README.md#Оглавление)
 
   <br/>
 
@@ -80,7 +80,7 @@
 ### Выводы
 Код рабочий, но есть к чему стремиться, что еще добавить.
 
-:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/Game_AI_guess_number/pyfiles/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/Game_AI_guess_number/pyfiles/README.md#Оглавление)
 
   <br/>
 
