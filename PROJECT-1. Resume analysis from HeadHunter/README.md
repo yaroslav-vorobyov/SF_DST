@@ -77,13 +77,13 @@
             pip install -r requirements.txt
 
 *   В проекте используется модуль <font color='LightSeaGreen'>**Plotly.io**</font> для сохранения диаграмм и графиков в файл, для сохранения доступны 2 "движка", предварительно нужно установить любой, на ваш выбор, чтобы механизм экспорта на диск работал:
-    1. "kaleido",
+    * "kaleido",
 
           pip install kaleido
 
     или, как в моём проекте, я использовал
 
-    2. "orca"
+    * "orca"
 
           pip install orca
 
