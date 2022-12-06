@@ -40,9 +40,9 @@
   <br/>
 
 **Что на практике:**
--   Учусь писать хороший код на Python и ломать свои паттерны мышления от Си;
--   Учусь работать с IDE VSCode;
--   Учусь работать с GitHub.
+- Учусь писать отличный код на Python;
+- Учусь эффективно работать с IDE VSCode;
+- Повышаю квалификацию с GitHub.
 
 :arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.%20Game%20''AI%20Guess%20Number''/README.md#Оглавление)
 
@@ -59,7 +59,8 @@
 *   Основой интерпретатор - Python 3.10 (у меня взят из Windows App Store для максимальной бесшовной интеграции с VSCode);
 *   Дополнительные требования перечислены в requirements.txt (получены командой pip freeze > requirements.txt);
 *   Установка недостающих дополнительных компонент:
-*        pip install -r requirements.txt
+
+        pip install -r requirements.txt
 
 :arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.%20Game%20''AI%20Guess%20Number''/README.md#Оглавление)
 
@@ -74,6 +75,8 @@
 
 ### Результаты:
 На моем железе (i7-3820QM/16Gb SO-DIMM DDR3/mSATA SSD 256Gb) комфортно отрабатывает до 10000 запусков, для более быстрого завершения расчета можно установить предел в 250 запусков.
+
+Проект-презентация [представлен в репозитории на GitHub](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/PROJECT-0.%20Game%20''AI%20Guess%20Number''/game_ai_guess_number.ipynb)
 
   <br/>
 
