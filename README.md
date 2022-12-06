@@ -1,4 +1,6 @@
 # My data science projects
+<img style="vertical-align:middle" img src = https://lms.skillfactory.ru/static/rg-theme/images/logo-header.svg>
+
 From [SkillFactory Data Science Course](https://skillfactory.ru/data-science-specialization)
 
 ## Projects
