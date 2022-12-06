@@ -87,7 +87,7 @@
 
     Дополнительные действия описаны на GitHub проекта: ["Orca"](https://github.com/plotly/orca)
 
-*   Для выгрузки исходного датасета, применил надстройку GitHub - [Git LFS](https://git-lfs.github.com/). [Документация по использованию Git LFS](https://github.com/git-lfs/git-lfs/tree/main/docs)
+*   Для выгрузки исходного датасета, применил надстройку GitHub - [Git LFS](https://git-lfs.github.com/). Документация по использованию Git LFS - [Docs Git LFS](https://github.com/git-lfs/git-lfs/tree/main/docs)
 
 :arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-1.%20Resume%20analysis%20from%20HeadHunter/README.md#Оглавление)
 
