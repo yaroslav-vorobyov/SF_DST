@@ -19,6 +19,8 @@
 
 [5. Результат](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-1.%20Resume%20analysis%20from%20HeadHunter/README.md#Результат)
 
+  >Перейти прямо к [презентации решения кейса](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/PROJECT-1.%20Resume%20analysis%20from%20HeadHunter/Project-1.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%91%D0%94%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20c%20HH.ipynb)
+
 [6. Выводы](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-1.%20Resume%20analysis%20from%20HeadHunter/README.md#Выводы)  
 
   <br/>
