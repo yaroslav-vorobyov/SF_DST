@@ -87,7 +87,9 @@
 
           pip install orca
 
-    Дополнительные действия описаны на GitHub проекта: ["Orca"](https://github.com/plotly/orca)
+    Решение возникающих проблем описаны на GitHub проекта ["Orca"](https://github.com/plotly/orca)
+
+    Документация по использованию [Plotly.io](https://plotly.github.io/plotly.py-docs/generated/plotly.io.write_image.html)
 
 *   Для выгрузки исходного датасета, применил надстройку GitHub - [Git LFS](https://git-lfs.github.com/). 
 
