@@ -16,7 +16,7 @@
 
 [6. Выводы](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.2.%20Analytics%20Report%20for%20the%20bank/README.md#Выводы)
 
-[7. Фидбэк от ментора](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.2.%20Analytics%20Report%20for%20the%20bank/README.md#Фидбэк от ментора)
+[7. Фидбэк от ментора](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.2.%20Analytics%20Report%20for%20the%20bank/README.md#Фидбэк-от-ментора)
 
   <br>
 
