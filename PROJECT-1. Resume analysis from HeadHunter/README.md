@@ -21,7 +21,7 @@
 
 [6. Выводы](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-1.%20Resume%20analysis%20from%20HeadHunter#Выводы)  
 
-[7. Фидбэк от ментора](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.2.%20Analytics%20Report%20for%20the%20bank#Фидбэк-от-ментора)
+[7. Фидбэк от ментора](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-1.%20Resume%20analysis%20from%20HeadHunter#Фидбэк-от-ментора)
 
 <br>
 
