@@ -1,29 +1,31 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание проекта](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''/README.md#Какой-кейс-решаем)
+[2. Какой кейс решаем?](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''/README.md#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''/README.md#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''#Этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''/README.md#Результат)
+[5. Результат](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''#Результат)
 
-[6. Выводы](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''/README.md#Выводы)  
+[6. Выводы](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''#Выводы)  
 
-  <br/>
+[7. Фидбэк от ментора](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.2.%20Analytics%20Report%20for%20the%20bank#Фидбэк-от-ментора)
+
+<br>
 
 ## Описание проекта
 Угадать загаданное компьютером число за минимальное количество попыток.
 
-  <br/>
+<br>
 
 ### Какой кейс решаем?
 Нужно написать программу, которая угадывает число за минимальное число попыток.
 
-  <br/>
+<br>
 
 **Алгоритм работы:**
 - Компьютер загадывает число от 0 до 100. Есть 2 варианта кода:
@@ -32,28 +34,28 @@
 - Под "отгадывает", подразумевается написать "программу, которая реализует алгоритм угадывания числа".
 - Алгоритм учитывает информацию о том, больше ли случайное число или меньше нужного нам.
 
-  <br/>
+<br>
 
 **Метрика качества:**
 Результаты оцениваются по среднему количеству попыток при 1000 повторений.
 
-  <br/>
+<br>
 
 **Что на практике:**
 - Учусь писать отличный код на Python;
 - Учусь эффективно работать с IDE VSCode;
 - Повышаю квалификацию с GitHub.
 
-:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''#Оглавление)
 
-  <br/>
+<br>
 
 ### Краткая информация о данных
 -   game guess number.py - файл проекта с угадыванием числа человеком, компьютер загадывает число;
 -   game_ai_guess_number.py - файл проекта с угадыванием числа компьютером самим собой, загадывает число и пытается его подобрать методом половинного деления, включает модуль расчета среднего числа удачных попыток отгадывания;
 -   game_ai_guess_number.ipynb - файл-презентация Jupyter Notebook, взаимодействует с файлом game_ai_guess_number.py.
 
-  <br/>
+<br>
 
 ### Требования для работы
 *   Основой интерпретатор - Python 3.10 (у меня взят из Windows App Store для максимальной бесшовной интеграции с VSCode);
@@ -62,15 +64,15 @@
 
         pip install -r requirements.txt
 
-:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''#Оглавление)
 
-  <br/>
+<br>
 
 ### Этапы работы над проектом
 *   Провел тесты нескольких запусков, код задокументирован, всё, по возможности, соответствует PEP8;
 *   np.random.seed(1) сид для воспроизводимости закомментирован для получения динамических результатов угадывания самим компьютером.
 
-  <br/>
+<br>
 
 
 ### Результаты:
@@ -78,14 +80,17 @@
 
 Проект-презентация [представлен в репозитории на GitHub](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''/game_ai_guess_number.ipynb)
 
-  <br/>
+<br>
 
 ### Выводы
 Код рабочий, но есть к чему стремиться, что еще добавить.
 
-:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''#Оглавление)
 
-  <br/>
+<br>
 
+### Фидбэк от ментора
+* Фидбэк Python-8, юнит 8.pdf - версия отзыва с полным оформлением
+* Фидбэк Python-8, юнит 8.txt - текстовая версия отзыва
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами.
