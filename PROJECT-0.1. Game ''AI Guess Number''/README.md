@@ -13,7 +13,7 @@
 
 [6. Выводы](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''#Выводы)  
 
-[7. Фидбэк от ментора](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.2.%20Analytics%20Report%20for%20the%20bank#Фидбэк-от-ментора)
+[7. Фидбэк от ментора](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''#Фидбэк-от-ментора)
 
 <br>
 
@@ -92,5 +92,7 @@
 ### Фидбэк от ментора
 * Фидбэк Python-8, юнит 8.pdf - версия отзыва с полным оформлением
 * Фидбэк Python-8, юнит 8.txt - текстовая версия отзыва
+
+Перейти к [отзыву](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''/docs)
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами.
