@@ -9,7 +9,7 @@
 
 [4. Этапы работы над проектом](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''#Этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''#Результат)
+[5. Результаты](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''#Результаты)
 
 [6. Выводы](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''#Выводы)  
 
