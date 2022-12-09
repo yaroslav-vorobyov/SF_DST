@@ -10,7 +10,7 @@
 
 [4. Этапы работы над проектом](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.2.%20Analytics%20Report%20for%20the%20bank#Этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.2.%20Analytics%20Report%20for%20the%20bank#Результаты)
+[5. Результаты](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.2.%20Analytics%20Report%20for%20the%20bank#Результаты)
 
   >Перейти прямо к [презентации решения кейса](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/PROJECT-0.2.%20Analytics%20Report%20for%20the%20bank/Analytics_Report.ipynb)
 
