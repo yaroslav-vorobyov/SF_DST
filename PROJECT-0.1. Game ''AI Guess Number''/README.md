@@ -12,6 +12,8 @@
 
 [5. Результаты](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''#Результаты)
 
+  >Перейти прямо к [презентации решения кейса](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''/game_ai_guess_number.ipynb)
+
 [6. Выводы](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''#Выводы)  
 
 [7. Фидбэк от ментора](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''#Фидбэк-от-ментора)
@@ -78,7 +80,7 @@
 ### Результаты:
 На моем железе (i7-3820QM/16Gb SO-DIMM DDR3/mSATA SSD 256Gb) комфортно отрабатывает до 10000 запусков, для более быстрого завершения расчета можно установить предел в 250 запусков.
 
-Проект-презентация [представлен в репозитории на GitHub](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''/game_ai_guess_number.ipynb)
+Проект c корректным выполнением кейса [представлен в репозитории на GitHub](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''/game_ai_guess_number.ipynb)
 
 <br>
 
