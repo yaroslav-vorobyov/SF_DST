@@ -14,7 +14,9 @@
 
   >Перейти прямо к [презентации решения кейса](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/PROJECT-0.2.%20Analytics%20Report%20for%20the%20bank/Analytics_Report.ipynb)
 
-[6. Выводы](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.2.%20Analytics%20Report%20for%20the%20bank/README.md#Выводы)  
+[6. Выводы](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.2.%20Analytics%20Report%20for%20the%20bank/README.md#Выводы)
+
+[7. Фидбэк от ментора](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.2.%20Analytics%20Report%20for%20the%20bank/README.md#Фидбэк от ментора)
 
   <br>
 
@@ -123,5 +125,11 @@
 
   <br>
 
+### Фидбэк от ментора
+* Фидбэк Python-13, юнит 9.url - содержит ссылку на отзыв, файл находится на Google Drive ментора
+* Фидбэк Python-13, юнит 9.pdf - версия отзыва с полным оформлением, если по ссылке файл будет удалён
+* Фидбэк Python-13, юнит 9.pdf - текстовая версия отзыва, если по ссылке файл будет удалён
+
+Перейти к [отзыву](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.2.%20Analytics%20Report%20for%20the%20bank/docs)
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами.
