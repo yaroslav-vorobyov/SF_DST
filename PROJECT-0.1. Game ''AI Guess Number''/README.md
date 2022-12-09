@@ -1,4 +1,5 @@
 # Проект 0. Угадай число
+<img style="vertical-align:middle" img src = https://lms.skillfactory.ru/static/rg-theme/images/logo-header.svg>
 
 ## Оглавление
 [1. Описание проекта](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1.%20Game%20''AI%20Guess%20Number''#Описание-проекта)
