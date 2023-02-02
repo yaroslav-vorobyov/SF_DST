@@ -1,4 +1,4 @@
-# Проект 0. Угадай число
+# Проект 0.1. Игра: "Угадай число"
 <img style="vertical-align:middle" img src = https://lms.skillfactory.ru/static/rg-theme/images/logo-header.svg>
 
 ## Оглавление
