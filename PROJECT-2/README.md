@@ -84,14 +84,14 @@
 
 Хранится в базе данных ***project_sql***:
 
-<p align="center"><img src='./images/scheme_public.png' width='50%'></p>
+<p align="center"><img src='./images/scheme_public.png' width='40%'></p>
 
 ---
 
 * #### Таблица-справочник **VACANCIES**
   Хранит в себе данные по вакансиям и содержит следующие столбцы:
 
-  <p align="center"><img src='./images/table_vacancies.png' width='50%'></p>
+  <p align="center"><img src='./images/table_vacancies.png' width='80%'></p>
 
   > Зарплатная вилка — это верхняя и нижняя граница оплаты труда в рублях (зарплаты в других валютах уже переведены в рубли).
   >
@@ -102,28 +102,28 @@
 * #### Таблица-справочник **AREAS**
   Хранит код города и его название:
 
-  <p align="center"><img src='./images/table_areas.png' width='50%'></p>
+  <p align="center"><img src='./images/table_areas.png' width='80%'></p>
 
 ---
 
 * #### Таблица-справочник **EMPLOYERS**
   Хранит списк работодателей:
 
-  <p align="center"><img src='./images/table_employers.png' width='50%'></p>
+  <p align="center"><img src='./images/table_employers.png' width='80%'></p>
 
 ---
 
 * #### Таблица-справочник **INDUSTRIES**
   Хранит варианты сфер деятельности работодателей:
 
-  <p align="center"><img src='./images/table_industries.png' width='50%'></p>
+  <p align="center"><img src='./images/table_industries.png' width='80%'></p>
 
 ---
 
 * #### Дополнительная таблица **EMPLOYERS_INDUSTRIES**
   Cуществует для организации связи между работодателями и сферами их деятельности.
 
-  <p align="center"><img src='./images/table_employers_industries.png' width='50%'></p>
+  <p align="center"><img src='./images/table_employers_industries.png' width='80%'></p>
   
   > Эта таблица нужна нам, поскольку у одного работодателя может быть несколько сфер деятельности (или работодатели могут вовсе не указать их).
   >
