@@ -17,7 +17,9 @@
 
 [5. Результаты](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-2#Результаты)
 
-  >Перейти прямо к [презентации решения кейса](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/PROJECT-2/Project-2.ipynb)
+  > Перейти прямо к [запросам SQL](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-2/SQL)
+
+  > Перейти прямо к [презентации решения кейса](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/PROJECT-2/Project-2.ipynb)
 
 [6. Выводы](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-2#Выводы)  
 
@@ -82,14 +84,14 @@
 
 Хранится в базе данных ***project_sql***:
 
-<p align="center"><img src='./images/scheme_public.png' width="80%"></p>
+<p align="center"><img src='./images/scheme_public.png' width='50%'></p>
 
 ---
 
 * #### Таблица-справочник **VACANCIES**
   Хранит в себе данные по вакансиям и содержит следующие столбцы:
 
-  <p align="center"><img src='./images/table_vacancies.png'></p>
+  <p align="center"><img src='./images/table_vacancies.png' width='50%'></p>
 
   > Зарплатная вилка — это верхняя и нижняя граница оплаты труда в рублях (зарплаты в других валютах уже переведены в рубли).
   >
@@ -100,33 +102,32 @@
 * #### Таблица-справочник **AREAS**
   Хранит код города и его название:
 
-  <p align="center"><img src='./images/table_areas.png'></p>
+  <p align="center"><img src='./images/table_areas.png' width='50%'></p>
 
 ---
 
 * #### Таблица-справочник **EMPLOYERS**
   Хранит списк работодателей:
 
-  <p align="center"><img src='./images/table_employers.png'></p>
+  <p align="center"><img src='./images/table_employers.png' width='50%'></p>
 
 ---
 
 * #### Таблица-справочник **INDUSTRIES**
   Хранит варианты сфер деятельности работодателей:
 
-  <p align="center"><img src='./images/table_industries.png'></p>
+  <p align="center"><img src='./images/table_industries.png' width='50%'></p>
 
 ---
 
 * #### Дополнительная таблица **EMPLOYERS_INDUSTRIES**
   Cуществует для организации связи между работодателями и сферами их деятельности.
 
-  <p align="center"><img src='./images/table_employers_industries.png'></p>
+  <p align="center"><img src='./images/table_employers_industries.png' width='50%'></p>
   
   > Эта таблица нужна нам, поскольку у одного работодателя может быть несколько сфер деятельности (или работодатели могут вовсе не указать их).
   >
   > Для удобства анализа необходимо хранить запись по каждой сфере каждого работодателя в отдельной строке таблицы.
-
 
 <br>
 
@@ -136,6 +137,21 @@
 *   Установка всех недостающих дополнительных компонент:
 
             pip install -r requirements.txt
+
+*   В проекте используется модуль <font color='LightSeaGreen'>**Plotly.io**</font> для сохранения диаграмм и графиков в файл, для сохранения доступны 2 "движка", предварительно нужно установить любой, на ваш выбор, чтобы механизм экспорта на диск работал:
+    * "kaleido",
+
+          pip install kaleido
+
+    или, как в моём проекте, я использовал
+
+    * "orca"
+
+          pip install orca
+
+    Документация по использованию [Orca](https://github.com/plotly/orca) на GitHub.
+
+    Документация по использованию [Plotly.io](https://plotly.github.io/plotly.py-docs/generated/plotly.io.write_image.html)
 
 *   В проекте используется модуль <font color='LightSeaGreen'>**PostgreSQL Database Client**</font> для построения запросов из IDE VSCode:
 
@@ -160,7 +176,10 @@
 <br>
 
 ### Результаты:
-Проект c корректным выполнением кейса ["Анализ резюме из HeadHunter (SQL)"](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/PROJECT-2.ipynb).
+
+  > [Запросы SQL](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-2/SQL)
+
+Проект c корректным выполнением кейса ["Анализ резюме из HeadHunter (SQL)"](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/PROJECT-2/Project-2.ipynb).
 
 <br>
 
