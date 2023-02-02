@@ -8,8 +8,8 @@
 */
 
 SELECT
-    AVG(salary_from)::int AS "Min_AVG_salary_from",
-    AVG(salary_to)::int AS "Max_AVG_salary_to"
+    ROUND(AVG(salary_from))::int AS "Min_AVG_salary_from",
+    ROUND(AVG(salary_to))::int AS "Max_AVG_salary_to"
 FROM
     vacancies
 ;

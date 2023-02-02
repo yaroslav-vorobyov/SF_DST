@@ -13,6 +13,7 @@
     -- 'машинн%обучен%'.
 */
 
+-- подсчёт вакансий с навыком Python
 (
     SELECT
         'Python' AS ds_skills,
@@ -35,6 +36,7 @@
         )
 )
 UNION ALL
+-- подсчёт вакансий с навыком Postgres/SQL
 (
     SELECT
         'Postgres/SQL',
@@ -57,6 +59,7 @@ UNION ALL
         )
 )
 UNION ALL
+-- подсчёт вакансий с навыком Postgres/SQL/Python
 (
     SELECT
         'Postgres/SQL/Python',
@@ -79,6 +82,7 @@ UNION ALL
         )
 )
 UNION ALL
+-- подсчёт вакансий с любым навыком
 (
     SELECT
         'Total',
