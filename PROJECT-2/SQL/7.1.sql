@@ -17,7 +17,7 @@
 (
     SELECT
         'Python' AS ds_skills,
-        COUNT(id) AS cnt
+        COUNT(id) AS cnt_vacancies
     FROM
         vacancies
     WHERE
@@ -105,5 +105,5 @@ UNION ALL
         )
 )
 ORDER BY
-    cnt
+    cnt_vacancies
 ;

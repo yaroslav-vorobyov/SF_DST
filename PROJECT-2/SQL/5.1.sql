@@ -12,7 +12,7 @@
 /* Вывод 1 места */
 (
     SELECT
-        e.name,
+        e.name AS employer_name,
         COUNT(e.id) AS cnt_vacancies
     FROM
         employers AS e
@@ -28,7 +28,7 @@ UNION ALL
 /* Вывод 5 места */
 (
     SELECT
-        e.name,
+        e.name AS employer_name,
         COUNT(e.id) AS cnt_vacancies
     FROM
         employers AS e

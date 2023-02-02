@@ -7,7 +7,7 @@
 */
 
 SELECT
-    a.name,
+    a.name AS area_name,
     COUNT(DISTINCT e.id) AS cnt_employers,
     COUNT(v.id) AS cnt_vacancies
 FROM
@@ -19,7 +19,7 @@ FROM
 GROUP BY
     a.id
 ORDER BY 
-    cnt_vacancies, 
+    cnt_vacancies,
     cnt_employers DESC
 LIMIT 1
 ;
