@@ -52,22 +52,24 @@
 **Метрика качества:**
 * Результаты оцениваются согласно требованиям, указанным к проекту:
 <table>
-  <tr style="vertical-align:middle">
-    <th style="background:LightSeaGreen"><font color='Black'>2 балла</font></th>
-    <th>Правильность решения задач, логичность построения запросов</th>
-  </tr>
-  <tr>
-    <th style="background:LightSeaGreen"><font color='Black'>2 балла</font></th>
-    <th>Читабельность и верное форматирование запросов и кода на Python, наличие комментариев в запросах;<br>Аккуратность оформления решения</th>
-  </tr>
-  <tr>
-    <th style="background:LightSeaGreen"><font color='Black'>2 балла</font></th>
-    <th>Логичность и полнота выводов</th>
-  </tr>
-  <tr>
-    <th style="background:LightSeaGreen"><font color='Black'>2 балла</font></th>
-    <th>Дополнительные исследования данных</th>
-  </tr>
+  <tbody>
+    <tr style="vertical-align:middle">
+      <td style="background-color: #2e765e; color: white; font-weight: bold">2 балла</td>
+      <td style="align:left">Правильность решения задач, логичность построения запросов</td>
+    </tr>
+    <tr>
+      <td style="background-color: #2e765e; color: white; font-weight: bold">2 балла</td>
+      <td style="align:left">Читабельность и верное форматирование запросов и кода на Python, наличие комментариев в запросах;<br>Аккуратность оформления решения</td>
+    </tr>
+    <tr>
+      <td style="background-color: #2e765e; color: white; font-weight: bold">2 балла</td>
+      <td style="align:left">Логичность и полнота выводов</td>
+    </tr>
+    <tr>
+      <td style="background-color: #2e765e; color: white; font-weight: bold">2 балла</td>
+      <td style="align:left">Дополнительные исследования данных</td>
+    </tr>
+  </tbody>
 </table>
 
 * Необходимо: ответить на контрольные вопросы (максимум 6 баллов), провести дополнительные исследования данных (максимум 2 балла), сдать проект на проверку, загрузив ноутбук-шаблон со своим решением на GitHub.
