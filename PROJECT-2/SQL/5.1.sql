@@ -13,7 +13,7 @@
 (
     SELECT
         e.name,
-        COUNT(e.id)
+        COUNT(e.id) AS cnt_vacancies
     FROM
         employers AS e
         JOIN vacancies AS v
@@ -21,7 +21,7 @@
     GROUP BY
         e.name
     ORDER BY
-        count DESC
+        cnt_vacancies DESC
     LIMIT 1
 )
 UNION ALL
@@ -29,7 +29,7 @@ UNION ALL
 (
     SELECT
         e.name,
-        COUNT(e.id)
+        COUNT(e.id) AS cnt_vacancies
     FROM
         employers AS e
         JOIN vacancies AS v
@@ -37,10 +37,10 @@ UNION ALL
     GROUP BY
         e.name
     ORDER BY
-        count DESC
+        cnt_vacancies DESC
     OFFSET 4
     LIMIT 1
 )
 ORDER BY
-    count DESC
+    cnt_vacancies DESC
 ;

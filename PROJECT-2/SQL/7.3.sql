@@ -5,8 +5,8 @@
 SELECT
     experience,
     -- считаем среднюю з/п, учитывая пустоты в полях, переводим в целое значение
-    AVG(COALESCE(salary_from, salary_to))::int "Мин. средн. от",
-    AVG(COALESCE(salary_to, salary_from))::int "Макс. средн. до"
+    AVG(COALESCE(salary_from, salary_to))::int AS "Мин. средн. от",
+    AVG(COALESCE(salary_to, salary_from))::int AS "Макс. средн. до"
 FROM 
     vacancies
 GROUP BY  

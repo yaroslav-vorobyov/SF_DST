@@ -12,7 +12,7 @@
 */
 
 SELECT
-    COUNT(id)
+    COUNT(id) AS cnt_postgres_sql_ds_vacancies
 FROM
     vacancies
 WHERE

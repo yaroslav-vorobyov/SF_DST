@@ -7,11 +7,11 @@
 
 SELECT
     experience,
-    COUNT(id) AS cnt
+    COUNT(id) AS cnt_vacancies
 FROM
     vacancies
 GROUP BY
     experience
 ORDER BY
-    cnt
+    cnt_vacancies
 ;

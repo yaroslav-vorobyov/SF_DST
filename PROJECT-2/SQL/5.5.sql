@@ -7,7 +7,7 @@
 */
 
 SELECT
-    e.name
+    e.name AS employer_with_4_industries
 FROM
     employers AS e
     JOIN employers_industries AS ei 
@@ -17,7 +17,7 @@ GROUP BY
 HAVING
     COUNT(ei.employer_id) = 4
 ORDER BY
-    e.name
+    employer_with_4_industries
 OFFSET 2
 LIMIT 1
 ;

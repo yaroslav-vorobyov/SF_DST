@@ -5,7 +5,7 @@
 */
 
 SELECT
-    COUNT(e.id)
+    COUNT(e.id) AS cnt_employers_empty_industries
 FROM
     employers AS e
     LEFT JOIN employers_industries AS ei 

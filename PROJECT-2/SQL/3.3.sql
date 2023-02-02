@@ -4,7 +4,7 @@
 */
 
 SELECT 
-    COUNT(id)
+    COUNT(id) AS cnt_areas
 FROM 
     areas
 ;

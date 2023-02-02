@@ -8,8 +8,8 @@
 
 SELECT
     a.name,
-    COUNT(DISTINCT e.id) AS cnt_emp,
-    COUNT(v.id) AS cnt_vac
+    COUNT(DISTINCT e.id) AS cnt_employers,
+    COUNT(v.id) AS cnt_vacancies
 FROM
     areas AS a
     JOIN employers AS e 
@@ -19,7 +19,7 @@ FROM
 GROUP BY
     a.id
 ORDER BY 
-    cnt_vac, 
-    cnt_emp DESC
+    cnt_vacancies, 
+    cnt_employers DESC
 LIMIT 1
 ;

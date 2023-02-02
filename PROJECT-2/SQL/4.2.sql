@@ -5,7 +5,7 @@
 */
 
 SELECT
-    COUNT(id)
+    COUNT(id) AS cnt_vacancies_filled_salary
 FROM
     vacancies
 WHERE

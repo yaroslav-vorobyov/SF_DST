@@ -9,8 +9,8 @@
     -- 'машинн%обучен%'.
 */
 SELECT
-    e.name AS empl_name,
-    COUNT(v.id) as ds_vac_count
+    e.name AS employer_name,
+    COUNT(v.id) as cnt_ds_vacancies
 FROM vacancies AS v
     JOIN employers AS e ON e.id = v.employer_id
 WHERE 
@@ -27,6 +27,6 @@ GROUP BY
 HAVING
     COUNT(v.id) >= 5
 ORDER BY 
-    ds_vac_count DESC
+    cnt_ds_vacancies DESC
 LIMIT 20
 ;

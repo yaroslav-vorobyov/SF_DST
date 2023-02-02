@@ -17,7 +17,7 @@
 */
 
 SELECT
-    COUNT(id)
+    COUNT(id) AS cnt_junior_ds_vacancies
 FROM
     vacancies
 WHERE

@@ -14,7 +14,7 @@
 */
 
 SELECT
-    COUNT(id)
+    COUNT(id) AS cnt_python_ds_vacancies
 FROM
     vacancies
 WHERE

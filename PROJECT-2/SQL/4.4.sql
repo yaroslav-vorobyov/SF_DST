@@ -10,14 +10,14 @@
 SELECT
     schedule,
     employment,
-    COUNT(DISTINCT id) AS cnt
+    COUNT(DISTINCT id) AS cnt_vacancies
 FROM
     vacancies
 GROUP BY
     schedule, 
     employment
 ORDER BY
-    cnt DESC
+    cnt_vacancies DESC
 -- Для ответа на вопрос в задании, приведённый в юните, следует раскомментировать операторы OFFSET & LIMIT
 -- OFFSET 1
 -- LIMIT 1

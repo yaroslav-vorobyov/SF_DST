@@ -5,7 +5,7 @@
 */
 
 SELECT
-    COUNT(ei.employer_id)
+    COUNT(ei.employer_id) AS cnt_developer_employers
 FROM
     employers_industries AS ei 
     JOIN industries as i

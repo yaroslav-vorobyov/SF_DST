@@ -17,9 +17,9 @@
     -- тип трудоустройства — 'Стажировка'.
 */
 SELECT
-    a.name,
-    v.name AS vac_name,
-    e.name AS empl_name,
+    a.name AS area_name,
+    v.name AS vacancy_name,
+    e.name AS employer_name,
     v.experience,
     v.employment,
     v.salary_from,
@@ -90,7 +90,7 @@ WHERE
         v.employment = 'Стажировка'
     )
 ORDER BY
-    a.name,
-    empl_name,
-    vac_name
+    area_name,
+    employer_name,
+    vacancy_name
 ;

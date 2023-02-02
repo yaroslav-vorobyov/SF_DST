@@ -7,8 +7,8 @@
 */
 (
     SELECT
-        a.name,
-        COUNT(v.id)
+        a.name AS area_name,
+        COUNT(v.id) AS cnt_yandex_vacancies
     FROM
         employers AS e
         JOIN vacancies AS v
@@ -45,5 +45,5 @@ UNION ALL
             -- a.name IN {cities}
 )
 ORDER BY
-    count
+    cnt_yandex_vacancies
 ;

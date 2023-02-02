@@ -5,7 +5,7 @@
 */
 
 SELECT
-    COUNT(*)
+    COUNT(*) AS cnt_data_vacancies
 FROM
     vacancies
 WHERE

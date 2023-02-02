@@ -4,7 +4,7 @@
 */
 
 SELECT 
-    COUNT(id)
+    COUNT(id) AS cnt_vacancies
 FROM 
     vacancies
 ;
