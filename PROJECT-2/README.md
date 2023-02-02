@@ -91,7 +91,7 @@
 * #### Таблица-справочник **VACANCIES**
   Хранит в себе данные по вакансиям и содержит следующие столбцы:
 
-  <p align="center"><img src='./images/table_vacancies.png' width='80%'></p>
+  <p align="center"><img src='./images/table_vacancies.png' width='60%'></p>
 
   > Зарплатная вилка — это верхняя и нижняя граница оплаты труда в рублях (зарплаты в других валютах уже переведены в рубли).
   >
@@ -102,28 +102,28 @@
 * #### Таблица-справочник **AREAS**
   Хранит код города и его название:
 
-  <p align="center"><img src='./images/table_areas.png' width='80%'></p>
+  <p align="center"><img src='./images/table_areas.png' width='60%'></p>
 
 ---
 
 * #### Таблица-справочник **EMPLOYERS**
   Хранит списк работодателей:
 
-  <p align="center"><img src='./images/table_employers.png' width='80%'></p>
+  <p align="center"><img src='./images/table_employers.png' width='60%'></p>
 
 ---
 
 * #### Таблица-справочник **INDUSTRIES**
   Хранит варианты сфер деятельности работодателей:
 
-  <p align="center"><img src='./images/table_industries.png' width='80%'></p>
+  <p align="center"><img src='./images/table_industries.png' width='60%'></p>
 
 ---
 
 * #### Дополнительная таблица **EMPLOYERS_INDUSTRIES**
   Cуществует для организации связи между работодателями и сферами их деятельности.
 
-  <p align="center"><img src='./images/table_employers_industries.png' width='80%'></p>
+  <p align="center"><img src='./images/table_employers_industries.png' width='60%'></p>
   
   > Эта таблица нужна нам, поскольку у одного работодателя может быть несколько сфер деятельности (или работодатели могут вовсе не указать их).
   >
@@ -138,22 +138,7 @@
 
             pip install -r requirements.txt
 
-*   В проекте используется модуль <font color='LightSeaGreen'>**Plotly.io**</font> для сохранения диаграмм и графиков в файл, для сохранения доступны 2 "движка", предварительно нужно установить любой, на ваш выбор, чтобы механизм экспорта на диск работал:
-    * "kaleido",
-
-          pip install kaleido
-
-    или, как в моём проекте, я использовал
-
-    * "orca"
-
-          pip install orca
-
-    Документация по использованию [Orca](https://github.com/plotly/orca) на GitHub.
-
-    Документация по использованию [Plotly.io](https://plotly.github.io/plotly.py-docs/generated/plotly.io.write_image.html)
-
-*   В проекте используется модуль <font color='LightSeaGreen'>**PostgreSQL Database Client**</font> для построения запросов из IDE VSCode:
+*   В проекте используется модуль <font color='LightSeaGreen'>**PostgreSQL Database Client**</font> для построения запросов к базе данных **project_sql** прямо из IDE VSCode:
 
             https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-postgresql-client2
 
