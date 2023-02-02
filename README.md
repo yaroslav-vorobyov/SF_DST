@@ -1,9 +1,10 @@
-# My data science projects
+# Data Science
+
 <img style="vertical-align:middle" img src = https://lms.skillfactory.ru/static/rg-theme/images/logo-header.svg>
 
-From [SkillFactory Data Science Course](https://skillfactory.ru/data-science-specialization)
+Курс обучения: [SkillFactory Data Science](https://skillfactory.ru/data-science-specialization)
 
-## Projects
+## Проекты
 
 * [Проект 0.1. Игра: "Угадай число"](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1)
 * [Проект 0.2. Аналитический отчет для банка](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.2)
