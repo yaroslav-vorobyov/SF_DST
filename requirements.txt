@@ -32,6 +32,7 @@ cffi==1.15.1
 chardet==5.1.0
 charset-normalizer==3.0.1
 click==8.1.3
+cloudpickle==2.2.1
 colorama==0.4.6
 colorspacious==1.1.2
 comm==0.1.2
@@ -49,6 +50,7 @@ dash-core-components==2.0.0
 dash-daq==0.5.0
 dash-html-components==2.0.0
 dash-table==5.0.0
+dask==2023.1.1
 datasheet==1.2.0
 debugpy==1.6.6
 decorator==5.1.1
@@ -122,6 +124,7 @@ kiwisolver==1.4.4
 latest==0.6.0
 lazy-object-proxy==1.9.0
 libclang==15.0.6.1
+locket==1.0.0
 lxml==4.9.2
 lz4==4.3.2
 Markdown==3.4.1
@@ -149,7 +152,7 @@ nltk==3.8.1
 notebook==6.5.2
 notebook_shim==0.2.2
 numexpr==2.8.4
-numpy==1.24.1
+numpy==1.23.5
 oauthlib==3.2.2
 openpyxl==3.1.0
 opt-einsum==3.3.0
@@ -157,10 +160,10 @@ orca==1.8
 packaging==23.0
 pandarallel==1.6.4
 pandas==1.5.3
-pandas-profiling==3.6.6
 pandocfilters==1.5.0
 parse==1.19.0
 parso==0.8.3
+partd==1.3.0
 pathlib==1.0.1
 pathspec==0.11.0
 patsy==0.5.3
@@ -213,7 +216,7 @@ rsa==4.9
 s3transfer==0.6.0
 schedule==1.1.0
 scikit-learn==1.2.1
-scipy==1.10.0
+scipy==1.9.3
 seaborn==0.12.2
 Send2Trash==1.8.0
 setuptools-scm==7.1.0
@@ -225,9 +228,11 @@ speedtest==0.0.1
 SQLAlchemy==2.0.1
 squarify==0.4.3
 stack-data==0.6.2
+statistics==1.0.3.5
 statsmodels==0.13.5
 strsimpy==0.2.1
 sweetviz==2.1.4
+swifter==1.3.4
 tables==3.8.0
 tangled-up-in-unicode==0.2.0
 tenacity==8.1.0
