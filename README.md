@@ -10,3 +10,4 @@
 * [Проект 0.2. Аналитический отчет для банка](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.2)
 * [Проект 1. Анализ резюме из HeadHunter](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-1)
 * [Проект 2. Анализ резюме из HeadHunter (SQL)](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-2)
+* [Проект 0.3. Домашнее задание. Модуль: EDA-4. Статистические тесты](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.3)
