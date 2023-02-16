@@ -1,4 +1,4 @@
-# Проект 0.1. Домашнее задание. Модуль 8. Игра: "Угадай число"
+# Проект 0.1. Домашнее задание. Модуль: PYTHON-8. Инструменты для Data Science
 <img style="vertical-align:middle" img src = https://lms.skillfactory.ru/static/rg-theme/images/logo-header.svg>
 
 ## Оглавление
