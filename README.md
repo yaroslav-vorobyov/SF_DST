@@ -7,7 +7,7 @@
 ## Проекты
 
 * [Проект 0.1. Домашнее задание. Модуль: PYTHON-8. Инструменты для Data Science](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1)
-* [Проект 0.2. Аналитический отчет для банка](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.2)
+* [Проект 0.2. Домашнее задание. Модуль: PYTHON-13. Визуализация данных](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.2)
 * [Проект 1. Анализ резюме из HeadHunter](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-1)
 * [Проект 2. Анализ резюме из HeadHunter (SQL)](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-2)
 * [Проект 0.3. Домашнее задание. Модуль: EDA-4. Статистические тесты](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.3)
