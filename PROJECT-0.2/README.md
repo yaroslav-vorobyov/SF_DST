@@ -1,4 +1,4 @@
-# Проект 0.2. Аналитический отчет для банка
+# Проект 0.2. Домашнее задание. Модуль: PYTHON-13. Визуализация данных
 <img style="vertical-align:middle" img src = https://lms.skillfactory.ru/static/rg-theme/images/logo-header.svg>
 
 ## Оглавление
@@ -12,7 +12,7 @@
 
 [5. Результаты](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.2#Результаты)
 
-  >Перейти прямо к [презентации решения кейса](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/PROJECT-0.2/Analytics_Report.ipynb)
+  >Перейти прямо к [презентации решения кейса](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/PROJECT-0.2/HW-02.ipynb)
 
 [6. Выводы](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.2#Выводы)
 
@@ -105,7 +105,7 @@
 <br>
 
 ### Результаты:
-Проект c корректным выполнением кейса ["Аналитический отчёт для банка"](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/PROJECT-0.2/Analytics_Report.ipynb).
+Проект c корректным выполнением кейса ["Аналитический отчёт для банка"](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/PROJECT-0.2/HW-02.ipynb).
 
 <br>
 
