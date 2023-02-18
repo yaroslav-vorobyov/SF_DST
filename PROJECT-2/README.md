@@ -160,6 +160,21 @@
 
             pip install -r requirements.txt
 
+*   В проекте используется модуль <font color='LightSeaGreen'>**Plotly.io**</font> для сохранения диаграмм и графиков в файл, для сохранения доступны 2 "движка", предварительно нужно установить любой, на ваш выбор, чтобы механизм экспорта на диск работал:
+    * "kaleido",
+
+          pip install kaleido
+
+    или, как в моём проекте, я использовал
+
+    * "orca"
+
+          pip install orca
+
+    Документация по использованию [Orca](https://github.com/plotly/orca) на GitHub.
+
+    Документация по использованию [Plotly.io](https://plotly.github.io/plotly.py-docs/generated/plotly.io.write_image.html)
+
 *   В проекте используется модуль <font color='LightSeaGreen'>**PostgreSQL Database Client**</font> для построения запросов к базе данных **project_sql** прямо из IDE VSCode:
 
             https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-postgresql-client2
