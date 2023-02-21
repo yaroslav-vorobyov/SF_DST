@@ -1,7 +1,11 @@
 # Data Science
 
-<!-- <img style="vertical-align:middle" img src = https://lms.skillfactory.ru/static/rg-theme/images/logo-header.svg> -->
-<img style="vertical-align:middle" img src = https://static.tildacdn.com/tild3862-3932-4061-b763-363135393134/logo.svg>
+<table>
+  <tr style="vertical-align:middle">
+    <!-- <th><img style="vertical-align:middle" img src = https://lms.skillfactory.ru/static/rg-theme/images/logo-header.svg></th> -->
+    <th><img style="vertical-align:middle" img src = https://static.tildacdn.com/tild3862-3932-4061-b763-363135393134/logo.svg></th>
+  </tr>
+</table>
 
 Курс обучения: [SkillFactory Data Science](https://skillfactory.ru/data-science-specialization)
 
