@@ -119,6 +119,8 @@
 
             pip install -r requirements.txt
 
+:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.4#Оглавление)
+
 <br>
 
 ### Этапы работы над проектом
