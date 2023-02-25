@@ -14,7 +14,7 @@
 * [Проект 0.2. Домашнее задание. Модуль: PYTHON-13. Визуализация данных](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.2)
 * [Проект 0.3. Домашнее задание. Модуль: EDA-4. Статистические тесты](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.3)
 * [Проект 0.4. Домашнее задание. Модуль: EDA-5. A/B-тестирование](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.4)
-* [Проект 0.5. Домашнее задание. EDA-6. Проектирование экспериментов](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.5)
+* [Проект 0.5. Домашнее задание. Модуль: EDA-6. Проектирование экспериментов](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.5)
 
 ## Проекты
 * [Проект 1. Анализ резюме из HeadHunter](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-1)
