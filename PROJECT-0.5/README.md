@@ -110,6 +110,20 @@
 
             pip install -r requirements.txt
 
+*   В проекте используется:
+    
+    *   Kaggle API:
+            
+            https://github.com/Kaggle/kaggle-api
+
+    *   Comet.ML API & SDK
+
+            https://www.comet.com/docs/v2/guides/tracking-ml-training/configuring-comet/
+            
+            https://www.comet.com/docs/v2/api-and-sdk/python-sdk/advanced/configuration/#configuration-variables 
+
+:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.5#Оглавление)
+
 <br>
 
 ### Этапы работы над проектом
