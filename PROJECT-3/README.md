@@ -1,8 +1,9 @@
-# Проект 3. Домашнее задание. Модуль: EDA-6. Проектирование экспериментов
+# Проект 3. Рейтинг отеля по данным сайта Booking
 <table>
   <tr style="vertical-align:middle">
     <!-- <th><img src = 'https://i.hh.ru/logos/svg/hh.ru__min_.svg?v=11032019'></th> -->
     <!-- <th><img style="vertical-align:middle" img src = https://lms.skillfactory.ru/static/rg-theme/images/logo-header.svg></th> -->
+    <th><img style="vertical-align:middle" img src = https://cf.bstatic.com/static/img/bcom_logo_blue_bg/f12f834e849b2a7f752a14b2598a6ddfeda1e713.svg height='40'></th>
     <th><img style="vertical-align:middle" img src = https://static.tildacdn.com/tild3862-3932-4061-b763-363135393134/logo.svg></th>
   </tr>
 </table>
@@ -46,7 +47,15 @@
 <br>
 
 **Метрика качества:**
-* В ноутбуке должны быть ответы на следующие вопросы:
+* Качество кода (соблюдение стандартов оформления PEP-8, комментирование кода, README к проекту). Оформление проекта на GitHub, GitLab, Kaggle;
+* Очистка данных;
+* Исследование данных (качество визуализации, наличие идей, гипотез, комментариев);
+* Генерация признаков;
+* Отбор признаков;
+* Преобразование признаков;
+* Качество решения: результат метрики MAPE.
+
+За каждый критерий можно получить **от 0 до 3 баллов**.
 <!-- <table>
   <tbody>
     <tr style="vertical-align:middle">
