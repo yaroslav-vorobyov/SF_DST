@@ -3,7 +3,8 @@
 <table>
   <tr style="vertical-align:middle">
     <!-- <th><img style="vertical-align:middle" img src = https://lms.skillfactory.ru/static/rg-theme/images/logo-header.svg></th> -->
-    <th><img style="vertical-align:middle" img src = https://static.tildacdn.com/tild3862-3932-4061-b763-363135393134/logo.svg></th>
+    <!-- <th><img style="vertical-align:middle" img src = https://static.tildacdn.com/tild3862-3932-4061-b763-363135393134/logo.svg></th> -->
+    <th height=30><img style="vertical-align:middle" img src = https://static.tildacdn.com/tild3736-6663-4331-b065-623334663336/SkillFactory.svg height=20></th>
   </tr>
 </table>
 
@@ -20,3 +21,4 @@
 * [Проект 0.3. Домашнее задание. Модуль: EDA-4. Статистические тесты](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.3)
 * [Проект 0.4. Домашнее задание. Модуль: EDA-5. A/B-тестирование](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.4)
 * [Проект 0.5. Домашнее задание. Модуль: EDA-6. Проектирование экспериментов](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.5)
+* [Проект 0.6. Домашнее задание. Модуль: ML-3. Обучение с учителем: классификация](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.6)
