@@ -9,13 +9,15 @@
 SELECT
     a.name AS area_name,
     COUNT(DISTINCT e.id) AS cnt_employers,
-    COUNT(v.id) AS cnt_vacancies
+    COUNT(DISTINCT v.id) AS cnt_vacancies
 FROM
     areas AS a
     JOIN employers AS e 
         ON a.id = e.area
     LEFT JOIN vacancies AS v 
         ON a.id = v.area_id
+WHERE
+    v.id IS NULL
 GROUP BY
     a.id
 ORDER BY 
