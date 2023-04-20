@@ -23,3 +23,4 @@
 * [Проект 0.5. Домашнее задание. Модуль: EDA-6. Проектирование экспериментов](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.5)
 * [Проект 0.6. Домашнее задание. Модуль: ML-3. Обучение с учителем: классификация](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.6)
 * [Проект 0.7. Домашнее задание. Модуль: ML-6. Отбор и селекция признаков](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.7)
+* [Проект 0.8. Практика. Модуль: ML-6. Отбор и селекция признаков](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.8)
