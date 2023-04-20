@@ -154,12 +154,12 @@ Accuracy (достоверность) — доля правильных отве
 
 **Метрики:**
 1. Accuracy:
-    * LabelEncoding data = 0.803
-    * OneHotEncoder data = 0.857
+    * LabelEncoding: 0.803
+    * OneHotEncoder: 0.857
 
 2. ROC-AUC:
-    * на тестовой выборке OneHotEncoding: 0.904
-    * на тестовой выборке LabelEncoding: 0.815
+    * OneHotEncoding: 0.904
+    * LabelEncoding: 0.815
 
 <br>
 
