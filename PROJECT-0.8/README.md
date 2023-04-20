@@ -152,14 +152,14 @@ Accuracy (достоверность) — доля правильных отве
 
 Проект c корректным выполнением кейса ["Практическая работа"](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/PROJECT-0.8/HW-08.ipynb).
 
-Метрики:
+**Метрики:**
 1. Accuracy:
-  * LabelEncoding data = 0.803
-  * OneHotEncoder data = 0.857
+    * LabelEncoding data = 0.803
+    * OneHotEncoder data = 0.857
 
 2. ROC-AUC:
-  * на тестовой выборке OneHotEncoding: 0.904
-  * на тестовой выборке LabelEncoding: 0.815
+    * на тестовой выборке OneHotEncoding: 0.904
+    * на тестовой выборке LabelEncoding: 0.815
 
 <br>
 
