@@ -49,34 +49,36 @@
 **Метрика качества:**
 * В ноутбуке должны быть ответы на следующие вопросы:
 <table>
-  <tbody>
-    <tr style="vertical-align:middle">
+  <thead style="vertical-align:middle">
+    <tr>
       <td style="text-align: center; color: black; font-weight: bold">Балл</td>
       <td style="text-align: center; color: black; font-weight: bold">Критерий</td>
     </tr>
-    <tr style="vertical-align:middle">
+    <tr>
       <td style="text-align: center; background-color: #eb6b56; color: black; font-weight: bold">0</td>
-      <td style="align:left">Задание не выполнено</td>
+      <td style="text-align:left">Задание не выполнено</td>
     </tr>
+  </thead>
+  <tbody style="vertical-align:middle">
     <tr>
       <td style="text-align: center; background-color: #f7da64; color: black; font-weight: bold">1</td>
-      <td style="align:left">Обучено две модели; гипепараметры подобраны при помощи одного метода</td>
+      <td style="text-align:left">Обучено две модели; гипепараметры подобраны при помощи одного метода</td>
     </tr>
     <tr>
       <td style="text-align: center; background-color: #f7da64; color: black; font-weight: bold">2</td>
-      <td style="align:left">Обучено две модели; гипепараметры подобраны при помощи двух методов</td>
+      <td style="text-align:left">Обучено две модели; гипепараметры подобраны при помощи двух методов</td>
     </tr>
     <tr>
       <td style="text-align: center; text-align: center; background-color: #61bd6d; color: black; font-weight: bold">3</td>
-      <td style="align:left">Обучено две модели; гипепараметры подобраны при помощи трёх методов</td>
+      <td style="text-align:left">Обучено две модели; гипепараметры подобраны при помощи трёх методов</td>
     </tr>
     <tr>
       <td style="text-align: center; background-color: #61bd6d; color: black; font-weight: bold">4</td>
-      <td style="align:left">Обучено две модели; гипепараметры подобраны при помощи четырёх методов</td>
+      <td style="text-align:left">Обучено две модели; гипепараметры подобраны при помощи четырёх методов</td>
     </tr>
     <tr>
       <td style="text-align: center; background-color: #61bd6d; color: black; font-weight: bold">5</td>
-      <td style="align:left">Обучено две модели; гипепараметры подобраны при помощи четырёх методов; использована кросс-валидация</td>
+      <td style="text-align:left">Обучено две модели; гипепараметры подобраны при помощи четырёх методов;<br> использована кросс-валидация</td>
     </tr>
   </tbody>
 </table>
