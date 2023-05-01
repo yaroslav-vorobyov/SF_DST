@@ -48,7 +48,8 @@
 
 **Метрика качества:**
 * В ноутбуке должны быть ответы на следующие вопросы:
-<table>
+
+<!-- <table>
   <thead style="vertical-align:middle">
     <tr>
       <td style="text-align: center; color: black; font-weight: bold">Балл</td>
@@ -81,7 +82,7 @@
       <td style="text-align:left">Обучено две модели; гипепараметры подобраны при помощи четырёх методов;<br> использована кросс-валидация</td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 | **Количество баллов** | **Критерий** |
 | --- | --- |
