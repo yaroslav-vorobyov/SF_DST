@@ -138,7 +138,7 @@
             
             pip install -U hyperopt
     
-    Документация по использованию [Hyperopt]https://hyperopt.github.io/hyperopt/)
+    Документация по использованию [Hyperopt](https://hyperopt.github.io/hyperopt/)
     
     *   Optuna:
 
