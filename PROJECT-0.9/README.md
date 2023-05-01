@@ -48,7 +48,60 @@
 
 **Метрика качества:**
 * В ноутбуке должны быть ответы на следующие вопросы:
-<table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-jqkh{background-color:#61bd6d;border-color:inherit;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-uzvj{border-color:inherit;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-b4ai{background-color:#eb6b56;border-color:inherit;font-family:serif !important;font-weight:bold;text-align:center;
+  vertical-align:middle}
+.tg .tg-cark{background-color:#f7da64;border-color:inherit;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 652px">
+<colgroup>
+<col style="width: 101.2px">
+<col style="width: 551.2px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-uzvj">Балл</th>
+    <th class="tg-uzvj">Критерий</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-b4ai">0</td>
+    <td class="tg-lboi">Задание не выполнено</td>
+  </tr>
+  <tr>
+    <td class="tg-cark">1</td>
+    <td class="tg-lboi">Обучено две модели; гипепараметры подобраны при помощи одного метода</td>
+  </tr>
+  <tr>
+    <td class="tg-cark">2</td>
+    <td class="tg-lboi">Обучено две модели; гипепараметры подобраны при помощи двух методов</td>
+  </tr>
+  <tr>
+    <td class="tg-jqkh">3</td>
+    <td class="tg-lboi">Обучено две модели; гипепараметры подобраны при помощи трёх методов</td>
+  </tr>
+  <tr>
+    <td class="tg-jqkh">4</td>
+    <td class="tg-lboi">Обучено две модели; гипепараметры подобраны при помощи четырёх методов</td>
+  </tr>
+  <tr>
+    <td class="tg-jqkh">5</td>
+    <td class="tg-lboi">Обучено две модели; гипепараметры подобраны при помощи четырёх методов; использована кросс-валидация</td>
+  </tr>
+</tbody>
+</table>
+
+<!-- <table>
   <thead style="vertical-align:middle">
     <tr>
       <td style="text-align: center; color: black; font-weight: bold">Балл</td>
@@ -81,7 +134,7 @@
       <td style="text-align:left">Обучено две модели; гипепараметры подобраны при помощи четырёх методов;<br> использована кросс-валидация</td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 <!-- | **Количество баллов** | **Критерий** |
 | --- | --- |
