@@ -135,6 +135,12 @@
             pip install -r requirements.txt
 
 *   В проекте используется:
+
+    *   scikit-learn:
+            
+            pip install -U scikit-learn
+    
+    Документация по использованию scikit-learn - [Guide scikit-learn](https://scikit-learn.org/stable/user_guide.html)
     
     *   Hyperopt:
             
