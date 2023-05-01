@@ -142,7 +142,7 @@
     
     Документация по использованию scikit-learn - [Guide scikit-learn](https://scikit-learn.org/stable/user_guide.html)
     
-    <br><br>
+    <br>
 
     *   Hyperopt:
             
@@ -150,7 +150,7 @@
     
     Документация по использованию [Hyperopt](https://hyperopt.github.io/hyperopt/)
     
-    <br><br>
+    <br>
 
     *   Optuna:
 
