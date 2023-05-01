@@ -48,8 +48,7 @@
 
 **Метрика качества:**
 * В ноутбуке должны быть ответы на следующие вопросы:
-
-<!-- <table>
+<table>
   <thead style="vertical-align:middle">
     <tr>
       <td style="text-align: center; color: black; font-weight: bold">Балл</td>
