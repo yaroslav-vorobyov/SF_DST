@@ -14,6 +14,8 @@
 * [Проект 1. Анализ резюме из HeadHunter](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-1)
 * [Проект 2. Анализ резюме из HeadHunter (SQL)](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-2)
 * [Проект 3. Рейтинг отеля по данным сайта Booking. EDA + Feature Engineering. Соревнование на Kaggle](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-3)
+* [Проект 4. Задача классификации](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-4)
+
 
 ## Практические работы
 * [Проект 0.1. Домашнее задание. Модуль: PYTHON-8. Инструменты для Data Science](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1)
