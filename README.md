@@ -27,3 +27,4 @@
 * [Проект 0.7. Домашнее задание. Модуль: ML-6. Отбор и селекция признаков](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.7)
 * [Проект 0.8. Практика. Модуль: ML-6. Отбор и селекция признаков](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.8)
 * [Проект 0.9. Домашнее задание. Модуль: ML-7. Оптимизация гиперпараметров модели](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.9)
+* [Проект 0.10. Домашнее задание. Модуль: MATH_ML-2. Линейная алгебра в контексте линейных методов](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.10)
