@@ -133,6 +133,23 @@
 
             pip install -r requirements.txt
 
+*   В проекте используется:
+
+    *   scikit-learn:
+            
+            pip install -U scikit-learn
+    
+    Документация по использованию scikit-learn - [Guide scikit-learn](https://scikit-learn.org/stable/user_guide.html)
+    
+    <br>
+
+    *   Optuna:
+
+            pip install -U optuna
+
+    Документация по использованию [Optuna](https://optuna.readthedocs.io/en/stable/reference/index.html)
+
+
 :arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.10#Оглавление)
 
 <br>
