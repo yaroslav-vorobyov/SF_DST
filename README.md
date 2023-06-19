@@ -15,6 +15,7 @@
 * [Проект 2. Анализ резюме из HeadHunter (SQL)](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-2)
 * [Проект 3. Рейтинг отеля по данным сайта Booking. EDA + Feature Engineering. Соревнование на Kaggle](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-3)
 * [Проект 4. Задача классификации](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-4)
+* [Проект 5. Задача регрессии](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-5)
 
 
 ## Практические работы
