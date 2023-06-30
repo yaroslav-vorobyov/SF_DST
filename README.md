@@ -30,3 +30,4 @@
 * [Проект 0.9. Домашнее задание. Модуль: ML-7. Оптимизация гиперпараметров модели](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.9)
 * [Проект 0.10. Домашнее задание. Модуль: MATH_ML-2. Линейная алгебра в контексте линейных методов](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.10)
 * [Проект 0.11. Домашнее задание. Модуль: MATH_ML-6. Математический анализ в контексте задачи оптимизации](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.11)
+* [Проект 0.12. Домашнее задание. Модуль: MATH_ML-7. Наивный байесовский классификатор](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.12)
