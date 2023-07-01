@@ -19,7 +19,7 @@
 
 [5. Результаты](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.11#Результаты)
 
-  > Перейти прямо к [презентации решения кейса](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/PROJECT-0.11/HW-11.ipynb)
+  > Перейти прямо к [презентации решения кейса](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/PROJECT-0.11/project/HW-11.ipynb)
 
 [6. Выводы](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.11#Выводы)  
 
@@ -162,7 +162,7 @@
 
 ### Результаты:
 
-Проект c корректным выполнением кейса ["Практическая работа"](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/PROJECT-0.11/HW-11.ipynb).
+Проект c корректным выполнением кейса ["Практическая работа"](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/PROJECT-0.11/project/HW-11.ipynb).
 
 <br>
 
