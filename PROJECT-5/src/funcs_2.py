@@ -23,20 +23,15 @@ def add_datetime_features(
         df_ (pd.DataFrame): датафрейм с добавлением новых признаков
     """
 
-    # с аксессором dt выделяем дату, час и день недели, 
+    # с аксессором dt выделяем дату, час и день недели (дни поимённо)
     df_['pickup_date'] = pd.to_datetime(df_[col_]).dt.date
     df_['pickup_hour'] = pd.to_datetime(df_[col_]).dt.hour
+    df_['pickup_day_of_week'] = pd.to_datetime(df_[col_]).dt.day_name()
 
     # преобразуем полученный аксессором dt признак в формат datetime (понадобится далее)
     df_['pickup_date'] = pd.to_datetime(df_['pickup_date'])
-
-    # для всех дней недели применяем смещение нумерации: 1 - Пн, 7 - Вс
-        # df_['pickup_day_of_week'] = pd.to_datetime(df_[col_]).dt.weekday + 1
-    df_['pickup_day_of_week'] = pd.to_datetime(df_[col_]).dt.day_name()
-    # df_['pickup_day_of_week'] = df_['pickup_day_of_week'].astype('category')
     
     # понижаем размерность признаков по типу занимаемых данных
-    # df_[['pickup_hour', 'pickup_day_of_week']] = df_[['pickup_hour', 'pickup_day_of_week']].astype('int8')
     df_[['pickup_hour']] = df_[['pickup_hour']].astype('int8')
     
     return df_

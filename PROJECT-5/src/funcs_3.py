@@ -133,7 +133,7 @@ def get_day_names_sorted(
         pd.Series: обработанный объект Series
     """
 
-    # задаём список дней недели
+    # задаём список-словарь дней недели
     cats = {'Monday':0, 'Tuesday':1, 'Wednesday':2, 'Thursday':3, 'Friday':4, 'Saturday':5, 'Sunday':6}
 
     # конвертируем Series в DataFrame, сбрасываем индекс
