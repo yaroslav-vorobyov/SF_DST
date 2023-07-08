@@ -290,8 +290,8 @@
 | Ridge | 0.48 |
 | DecisionTreeRegressor | 0.43 |
 | RandomForestRegressor | 0.41 |
-| **GradientBoostingRegressor** | <font color=LightSeaGreen>**0.394**</font> |
-| **XGBoost** | <font color=LightSeaGreen>**0.392**</font> |
+| **GradientBoostingRegressor** | <font color=LightSeaGreen>**0.393**</font> |
+| **XGBoost** | <font color=LightSeaGreen>**0.391**</font> |
 
 <br>
 
