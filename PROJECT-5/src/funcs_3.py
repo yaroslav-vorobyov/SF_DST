@@ -121,6 +121,34 @@ def plot_hist_box(
     plt.tight_layout()
 
 
+def get_day_names_sorted(
+        ser_:pd.Series
+    ) -> pd.Series:
+    """ Функция, реализующая сортировку поименных дней недели в хронологическом порядке.
+
+    Args:
+        ser_ (pd.Series): исходный объект Series для обработки
+
+    Returns:
+        pd.Series: обработанный объект Series
+    """
+
+    # задаём список дней недели
+    cats = {'Monday':0, 'Tuesday':1, 'Wednesday':2, 'Thursday':3, 'Friday':4, 'Saturday':5, 'Sunday':6}
+
+    # конвертируем Series в DataFrame, сбрасываем индекс
+    df_ = ser_.to_frame().reset_index()
+
+    # первую колонку (с днями недели) преобразуем в "упорядоченную категориальную"
+    df_[df_.columns[0]] = pd.Categorical(df_[df_.columns[0]], categories=[*cats.keys()], ordered=True)
+
+    # сортируем по категориальной колонке
+    df_ = df_.sort_values(df_.columns[0]).reset_index(drop=True).drop(columns=df_.columns[0])
+    
+    # возвращаем от DataFrame первую колонку (Series)
+    return df_.iloc[:, 0]
+
+
 def plot_bar_line(
         df_1_:pd.DataFrame, df_2_:pd.DataFrame, 
         title_:str, xlabel_:str, 
