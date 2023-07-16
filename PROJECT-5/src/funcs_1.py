@@ -84,6 +84,7 @@ def get_dataset(
 
                 # если по ссылке 'zip'
                 elif extesion_ == 'zip':
+                    # загружаем файл, выводим сообщения только при ошибке, перезаписываем при наличии в ./
                     gdown.download(url=url_, output='data.zip', quiet=True, fuzzy=True)
                 
                     # извлекаем загруженный архив в подкаталог для данных
