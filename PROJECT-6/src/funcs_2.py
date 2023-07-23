@@ -335,22 +335,25 @@ def get_opt_metric_coef(
         # обучаем модель и предсказываем метки моделей
         match model_:
             case 'kmeans':
-                labels_ = get_estimator(
+                estimator_ = get_estimator(
                     'kmeans', 
                     **{'n_clusters':cluster_num, 'random_state':random_state_}
-                ).fit_predict(X_)
+                )
+                labels_ = estimator_.fit_predict(X_)
 
             case 'em':
-                labels_ = get_estimator(
+                estimator_ = get_estimator(
                     'em', 
                     **{'n_components':cluster_num, 'random_state':random_state_, 'warm_start':True}
-                ).fit_predict(X_)
+                )
+                labels_ = estimator_.fit_predict(X_)
 
             case 'aggl':
-                labels_ = get_estimator(
+                estimator_ = get_estimator(
                     'aggl', 
                     **{'n_clusters':cluster_num}
-                ).fit_predict(X_)
+                )
+                labels_ = estimator_.fit_predict(X_)
 
         # вычисляем значение метрики, вносим число кластеров и метрику по ключам в словарь
         match metric_:
@@ -370,6 +373,7 @@ def get_opt_metric_coef(
 
     # визуализируем зависимость значения метрики от количества кластеров
     sns.lineplot(data=df_res, x='cluster', y='metric', marker='o', label="'" + metric_names[metric_][0] + "'")
+    plt.title(metric_names[metric_][1] + ' ' + estimator_.__class__.__name__)
     plt.ylabel(metric_names[metric_][1])
     plt.xlabel('Число кластеров')
 
