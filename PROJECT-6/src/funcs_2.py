@@ -237,13 +237,16 @@ def get_scatterplot(
 
 def plot_cluster_profile(
         df_:pd.DataFrame, 
+        image_path_:str, 
         width_:int=800
     ) -> None:
     """ Функция, реализующая построение полярной диаграммы. 
 
     Args:
         df_ (pd.DataFrame): датасет для построения графика
-
+        
+        image_path_ (str): путь к файлу в системе для сохранения полотна с графиками
+        
         width_ (int, optional): ширина = высота графика (т.к. окружность). Defaults to 800.
     """
     # нормализуем сгруппированные данные, приводя их к масштабу 0-1
@@ -273,8 +276,12 @@ def plot_cluster_profile(
         width=width_,                       # ширина (в пикселях)
         height=width_,                      # высота (в пикселях)
     )
-    # отображаем фигуру
-    fig.show()
+
+    # сохраняем в файл
+    fig.write_image(DATA_SUBFOLDER + image_path_)
+
+    # отобразить в формате svg
+    fig.show('svg')
 
 
 def get_opt_metric_coef(
