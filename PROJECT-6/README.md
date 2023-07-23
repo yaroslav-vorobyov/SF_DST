@@ -206,14 +206,10 @@
 
 <br>
 
-<center>
-
 | Обученная модель | Accuracy<br> на тестовой выборке |
 | :---: | :---: |
 | **RandomForestClassifier** | <font color=LightSeaGreen>**0.985**</font> |
 | **GradientBoostingClassifier** | <font color=LightSeaGreen>**0.983**</font> |
-
-</center>
 
 <br>
 
