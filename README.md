@@ -16,7 +16,7 @@
 * [Проект 3. Рейтинг отеля по данным сайта Booking. EDA + Feature Engineering. Соревнование на Kaggle](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-3)
 * [Проект 4. Задача классификации](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-4)
 * [Проект 5. Задача регрессии](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-5)
-
+* [Проект 6. Задача кластеризации](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-6)
 
 ## Практические работы
 * [Проект 0.1. Домашнее задание. Модуль: PYTHON-8. Инструменты для Data Science](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.1)
