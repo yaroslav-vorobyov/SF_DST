@@ -199,7 +199,7 @@
 * Данные были исследованы на длительности поездок, выявлены зависимости, построены графики отражающие зависимости, сформированы выводы по данным;
 * Построены обучающие модели, основанные на алгоритмах машинного обучения, выбраны несколько из них по максимальной целевой метрике *Accuracy*;
 
-Для решения задачи регрессии в данном кейсе **отлично себя показали модели**:
+Для решения задачи кластеризации в данном кейсе **отлично себя показали модели**:
 
 * <font color=LightSeaGreen>**&check;**</font> **случайный леc RandomForestClassifier**
 * <font color=LightSeaGreen>**&check;**</font> **Градиентный бустинг над деревьями решений GradientBoostingClassifier**
@@ -209,7 +209,7 @@
 | Обученная модель | Accuracy<br> на тестовой выборке |
 | :---: | :---: |
 | **RandomForestClassifier** | <font color=LightSeaGreen>**0.985**</font> |
-| **GradientBoostingClassifier** | <font color=LightSeaGreen>**0.983**</font> |
+| **GradientBoostingClassifier** | <font color=LightSeaGreen>**0.990**</font> |
 
 <br>
 
