@@ -134,6 +134,23 @@
     
     Документация по использованию scikit-learn - [Guide scikit-learn](https://scikit-learn.org/stable/user_guide.html)
 
+    *   gdown:
+
+            pip install -U gdown
+
+    Документация по использованию - [gdown](https://github.com/wkentaro/gdown)
+
+    *   fast unzipper:
+
+            pip install -U fast_unzip
+
+    Документация по использованию - [fast unzipper](https://github.com/Inferno2899/fast_unzip)
+
+    *   rm:
+
+            pip install -U rm
+
+    Документация по использованию - [rm](https://github.com/andrewp-as-is/rm.py)
 
 :arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.13#Оглавление)
 
