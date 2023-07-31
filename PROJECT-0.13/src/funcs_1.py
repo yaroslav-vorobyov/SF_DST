@@ -75,8 +75,10 @@ def get_metrics(
     print(f'MAPE: {mape_score:.{int(TOL/2)}f} %')
     print(f'MSE: {mse_score:.{TOL}e} $^2')
     print(f'RMSE: {rmse_score:.{TOL}e} $')
-    print(f'R2: {r2_score:.{int(TOL/2)}f}')
-    print(f'MASE: {mase_score:.{int(TOL/2)}f}')
+    # print(f'R2: {r2_score:.{int(TOL/2)}f}')
+    print(f'R2: {r2_score:.{TOL - 2}f}')
+    # print(f'MASE: {mase_score:.{int(TOL/2)}f}')
+    print(f'MASE: {mase_score:.{TOL - 2}f}')
 
 
 def get_adfuller_test(
