@@ -167,6 +167,8 @@
 
             pip install -U gdown
 
+    Документация по использованию - [gdown](https://github.com/wkentaro/gdown)
+
 :arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-6#Оглавление)
 
 <br>
