@@ -28,11 +28,11 @@
 
 <br>
 
-<center> <img src=https://salesupnow.ru/storage/app/media/pipeople.png align="right" width="300"/> </center>
+<center> <img src=https://previews.123rf.com/images/popovia/popovia1602/popovia160200275/51955530-stock-market-graph-and-bar-chart.jpg align="right" width="300"/> </center>
 
 ## Описание проекта
 
-Представляет исследование временных рядов котировок крупных корпораций - Apple, Microsoft, Google, nVidia.
+Представляет исследование временных рядов основных котировок крупных корпораций - Apple, Microsoft, Google, nVidia. Построение прогнозных моделей по всем котировкам в проекте, поиск наилучшего сочетания модель-котировка. Запуск лучшей модели в Docker. 
 
 <br>
 
