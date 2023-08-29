@@ -7,16 +7,12 @@ import numpy as np
 # объект Flask-приложения
 application = app.Flask(__name__)
 
-# # обработчик запросов на endpoint '/welcome'
-# @application.route('/welcome')
-# def hello_func():
-#     name = app.request.args.get('name', default='world')
-#     return f'Hello, {name}!'
 
 # обработчик запросов на endpoint '/'
 @application.route('/')
 def index():
     return 'Test message. The server is running'
+
 
 # обработчик запросов на endpoint '/time'
 @application.route('/time')
@@ -30,7 +26,7 @@ with open('./model/arima.pkl', 'rb') as pkl_file:
     model_from_file = pickle.load(pkl_file)
 
 # обработчик запросов на endpoint '/predict'
-@application.route('/predict')#, methods=['POST'])
+@application.route('/predict')
 def predict():
     while True:
         try:
