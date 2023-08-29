@@ -32,3 +32,6 @@
 * [Проект 0.11. Домашнее задание. Модуль: MATH_ML-6. Математический анализ в контексте задачи оптимизации](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.11)
 * [Проект 0.12. Домашнее задание. Модуль: MATH_ML-7. Наивный байесовский классификатор](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.12)
 * [Проект 0.13. Домашнее задание. Модуль: MATH_ML-13. Временные ряды](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.13)
+
+## Выпускная работа
+* [Финальный проект](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT_final)
