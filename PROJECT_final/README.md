@@ -178,6 +178,19 @@
             
             docker run -it -d --rm -p 5000:5000 --name server_container server_image
 
+*   Для получения предсказания:
+        
+    *   в браузере (на текущую дату):
+            
+            127.0.0.1:5000/predict
+        
+    *   в браузере (на произвольную дату):
+            
+            http://127.0.0.1:5000/predict?date=YYYY-MM-DD"
+            
+            где date в формате год-месяц-день
+            
+
 
 :arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT_final#Оглавление)
 
