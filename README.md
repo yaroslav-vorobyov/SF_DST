@@ -28,7 +28,7 @@
 | [Проект 6. Задача кластеризации](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-6) | Построить модель кластеризации клиентов на основе их покупательской способности, частоты заказов и срока давности последней покупки, определить профиль каждого из кластеров | **sklearn.model_selection** (train_test_split, GridSearchCV), **sklearn.metrics** (silhouette_score, calinski_harabasz_score, davies_bouldin_score, accuracy_score), **sklearn.preprocessing** (MinMaxScaler, StandardScaler), **sklearn.pipeline** (Pipeline), **sklearn.ensemble** (RandomForestClassifier, GradientBoostingClassifier), **sklearn.cluster** (KMeans, AgglomerativeClustering), **sklearn.mixture** (GaussianMixture), **sklearn.decomposition** (PCA, explained_variance_ratio_), **sklearn.manifold** (TSNE, kl_divergence_), **seaborn** (barplot, scatterplot, lineplot), **plotly** (box, Scatterpolar), **match-case** statement, recursion, gdown, os.path, EDA, feature engineering, pivot_table, regex |
 
 
-:arrow_up:[вверх ↑](https://github.com/yaroslav-vorobyov/SF_DST#data-scienc)
+:arrow_up:[вверх ↑](https://github.com/yaroslav-vorobyov/SF_DST#data-science)
 
 ## Практические работы
 | Название проекта | Описание | Стек и инструменты |
@@ -49,4 +49,4 @@
 
 **Общий стэк для всех проектов:** pandas, numpy, matplotlib.
 
-:arrow_up:[вверх ↑](https://github.com/yaroslav-vorobyov/SF_DST#data-scienc)
+:arrow_up:[вверх ↑](https://github.com/yaroslav-vorobyov/SF_DST#data-science)
